@@ -1,2 +1,2 @@
 # borges
-Collection of non-contrarian books  
+Collection of Contrarian books  
